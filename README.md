@@ -1,4 +1,4 @@
-# Local-Notification
+# Local-Notification with Swift 2
 
 ```swift
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
